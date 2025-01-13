@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yatri Patel</h1>
 <h3 align="center">A Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=girl%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1364029%2Fscreenshots%2F16093268%2Fmedia%2F68e82a7fb4904614a9066d6b540c14b2.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&docid=ZxkZXuCs4TZ-3M&tbnid=VS8-fxCkM29JmM&vet=12ahUKEwj8vaHo6-uKAxWaj68BHaUFEIUQM3oECFUQAA..i&w=1600&h=1200&hcb=2&ved=2ahUKEwj8vaHo6-uKAxWaj68BHaUFEIUQM3oECFUQAA"/>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16093268-Desktop-Animation"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatripatel2003&label=Profile%20views&color=0e75b6&style=flat" alt="yatripatel2003" /> </p>
 
 - 🔭 I’m currently working on **My Portfolio Project**
